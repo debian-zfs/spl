@@ -1,3 +1,9 @@
+spl-linux (0.6.5.5-gh1) unstable; urgency=low
+
+  * Adapted to match zfs-linux-0.6.5.5-gh1
+
+ -- Fajar A. Nugraha <ubuntu-ppa@fajar.net>  Fri, 11 Mar 2016 14:24:00 +0700
+
 spl-linux (0.6.5.4-gh1~stretch1) stretch; urgency=low
 
   * Adapted to match zfs-linux-0.6.5.4-gh1~stretch1
